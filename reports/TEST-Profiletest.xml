@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Profile test" errors="0" tests="1" failures="0" time="0.322" timestamp="2020-11-12T22:13:09">
+  <testcase classname="Profile test" name="Update the status headline and verify the change" time="0.322"></testcase>
+</testsuite>
+</testsuites>

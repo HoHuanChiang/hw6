@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Article test" errors="0" tests="2" failures="0" time="1.056" timestamp="2020-11-12T22:13:07">
+  <testcase classname="Article test" name="Create a new article and verify that the article was added" time="0.93"></testcase>
+  <testcase classname="Article test" name="Fetch an article with invalid post id" time="0.124"></testcase>
+</testsuite>
+</testsuites>

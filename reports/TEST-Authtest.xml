@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Auth test" errors="0" tests="3" failures="0" time="0.428" timestamp="2020-11-12T22:13:08">
+  <testcase classname="Auth test" name="Register a new user named &amp;quot;testUser&amp;quot; with password &amp;quot;123&amp;quot;" time="0.26"></testcase>
+  <testcase classname="Auth test" name="Log in as &amp;quot;testUser&amp;quot;" time="0.041"></testcase>
+  <testcase classname="Auth test" name="Log out &amp;quot;testUser&amp;quot;" time="0.127"></testcase>
+</testsuite>
+</testsuites>
